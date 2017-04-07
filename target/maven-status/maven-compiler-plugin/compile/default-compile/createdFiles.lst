@@ -1,0 +1,10 @@
+com\niit\restsample\DAO\PersonDAO.class
+com\niit\restsample\Controller\PersonController.class
+com\niit\configuration\DBConfig.class
+com\niit\restsample\Service\PersonService.class
+com\niit\configuration\WebAppConfig.class
+com\niit\configuration\WebAppInitializer.class
+com\niit\restsample\Service\PersonServiceImpl.class
+com\niit\restsample\model\Person.class
+com\niit\restsample\model\Error.class
+com\niit\restsample\DAO\PersonDAOImpl.class
